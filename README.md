@@ -1,3 +1,2 @@
 # introtoprogramming
-
-## Aritmatika dengan python
+Aritmatika dengan python
